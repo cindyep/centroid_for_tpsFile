@@ -26,7 +26,7 @@
 # or
 # python3 getCentroid.py <your_file's_name>.tps
 #
-# After it's done, the results will be saved in the same folder in a file named <your_file's_name>_CENTROID.tps
+# After it's done, the results will be saved in the same folder in a file named <your_file's_name>_CENTROID.txt
 import sys
 
 f = open(sys.argv[1])
